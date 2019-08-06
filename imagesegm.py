@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 from scipy.stats import multivariate_normal
 
-Simple Project Image Segmetation using Expectation-Maximization Algorithm
+#Simple Project Image Segmetation using Expectation-Maximization Algorithm
 
 K = int(input('Please enter K clustering number: '))
 
